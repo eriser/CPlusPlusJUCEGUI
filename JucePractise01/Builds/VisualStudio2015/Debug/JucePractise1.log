@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (JucePractise1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  juce_audio_basics.cpp
+  juce_audio_devices.cpp
+  juce_audio_formats.cpp
+  juce_audio_processors.cpp
+  juce_core.cpp
+  juce_cryptography.cpp
+  juce_data_structures.cpp
+c:\users\zhoukb\desktop\c++\cplusplusgui\jucepractise01\source\main.cpp(24): warning C4100: “commandLine”: 未引用的形参
+c:\users\zhoukb\desktop\c++\cplusplusgui\jucepractise01\source\main.cpp(48): warning C4100: “commandLine”: 未引用的形参
+c:\users\zhoukb\desktop\c++\cplusplusgui\jucepractise01\source\main.cpp(76): warning C4189: “a”: 局部变量已初始化但不引用
+  juce_events.cpp
+  juce_graphics.cpp
+  juce_gui_basics.cpp
+  juce_gui_extra.cpp
+  juce_opengl.cpp
+  juce_video.cpp
+  JucePractise1.vcxproj -> C:\Users\zhoukb\Desktop\C++\CPlusPlusGUI\JucePractise01\Builds\VisualStudio2015\Debug\JucePractise1.exe
+  JucePractise1.vcxproj -> Debug\\JucePractise1.pdb (Full PDB)

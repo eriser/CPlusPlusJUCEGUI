@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  NewComponent.cpp
+c:\users\zhoukb\desktop\c++\cplusplusgui\juceapplicationone\source\newcomponent.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zhoukb\desktop\c++\cplusplusgui\juceapplicationone\source\newcomponent.cpp(311): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zhoukb\desktop\c++\cplusplusgui\juceapplicationone\source\newcomponent.cpp(597): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zhoukb\desktop\c++\cplusplusgui\juceapplicationone\source\main.cpp(26): warning C4100: “commandLine”: 未引用的形参
+c:\users\zhoukb\desktop\c++\cplusplusgui\juceapplicationone\source\main.cpp(48): warning C4100: “commandLine”: 未引用的形参
+  JUCEApplicationOne.vcxproj -> C:\Users\zhoukb\Desktop\C++\CPlusPlusGUI\JUCEApplicationOne\Builds\VisualStudio2015\Debug\JUCEApplicationOne.exe
+  JUCEApplicationOne.vcxproj -> Debug\\JUCEApplicationOne.pdb (Full PDB)
