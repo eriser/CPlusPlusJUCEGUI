@@ -1,0 +1,19 @@
+﻿  MainComponent.cpp
+  Main.cpp
+  juce_audio_basics.cpp
+  juce_audio_devices.cpp
+  juce_audio_formats.cpp
+  juce_audio_processors.cpp
+c:\users\zhoukb\desktop\c++\cplusplusjucegui\jucepractise03\source\main.cpp(27): warning C4100: “commandLine”: 未引用的形参
+c:\users\zhoukb\desktop\c++\cplusplusjucegui\jucepractise03\source\main.cpp(49): warning C4100: “commandLine”: 未引用的形参
+  juce_core.cpp
+  juce_cryptography.cpp
+  juce_data_structures.cpp
+  juce_events.cpp
+  juce_graphics.cpp
+  juce_gui_basics.cpp
+  juce_gui_extra.cpp
+  juce_opengl.cpp
+  juce_video.cpp
+  jucePractise03.vcxproj -> C:\Users\zhoukb\Desktop\C++\CPlusPlusJUCEGUI\jucePractise03\Builds\VisualStudio2015\Debug\jucePractise03.exe
+  jucePractise03.vcxproj -> Debug\\jucePractise03.pdb (Full PDB)
